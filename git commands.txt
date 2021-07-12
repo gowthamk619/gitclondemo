@@ -1,0 +1,14 @@
+$ git init
+$ git add *
+
+$ git status
+$ git remote add origin https://github.com/gowthamk619/dn017
+$ git push -u orgin master
+
+///git clone
+
+git clone https://github.com/gowthamk619/gitclondemo/tree/main
+
+cd git*
+
+git commit -m 'first'
